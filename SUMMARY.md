@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Sliding Window](README.md)
+* [Useful Websites](README.md)
+* [Auto-shutdown Command](auto-shutdown-command.md)
+* [LinuxTips](linuxtips.md)
