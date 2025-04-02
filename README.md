@@ -1,13 +1,2 @@
----
-icon: browser
----
+# Page
 
-# Useful Websites
-
-## Icon
-
-{% embed url="https://www.flaticon.com/" %}
-
-## Study English
-
-{% embed url="https://test-english.com/" %}
