@@ -1,2 +1,6 @@
-# Page
+---
+icon: square-check
+---
+
+# Sliding Window
 
