@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Sliding Window](README.md)
+* [Page](README.md)
