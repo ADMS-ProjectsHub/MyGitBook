@@ -4,7 +4,51 @@ icon: building
 
 # Practical Abbreviations
 
-## 📌 **Common Business Abbreviations**
+## **Software Development & IT Acronyms**
+
+| Abbreviation | Full Form                                      | Meaning / Usage                                                                                |
+| ------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **API**      | Application Programming Interface              | A set of rules that allows different software applications to communicate with each other      |
+| **SaaS**     | Software as a Service                          | Cloud-based software delivered via the internet (e.g., Google Docs, Dropbox)                   |
+| **PaaS**     | Platform as a Service                          | Cloud platform for developers to build, run, and manage applications (e.g., Google App Engine) |
+| **IaaS**     | Infrastructure as a Service                    | Cloud services that provide servers, storage, and networking resources (e.g., AWS, Azure)      |
+| **CI/CD**    | Continuous Integration / Continuous Deployment | Automated process for integrating and deploying code changes                                   |
+| **ERP**      | Enterprise Resource Planning                   | Integrated system for managing core business processes such as finance, HR, and supply chain   |
+| **CRM**      | Customer Relationship Management               | System for managing customer interactions and data to improve relationships and sales          |
+
+***
+
+## **Development & Engineering**
+
+| Abbreviation | Full Form                          | Meaning / Usage                                                                           |
+| ------------ | ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| **SDK**      | Software Development Kit           | Tools and libraries used to build applications for a specific platform                    |
+| **IDE**      | Integrated Development Environment | Software suite for writing, debugging, and compiling code (e.g., Visual Studio, IntelliJ) |
+| **DBMS**     | Database Management System         | Software that manages databases (e.g., MySQL, PostgreSQL)                                 |
+| **REST**     | Representational State Transfer    | A type of API that uses HTTP methods (GET, POST, etc.) for communication                  |
+| **JSON**     | JavaScript Object Notation         | Lightweight data-interchange format, often used in APIs                                   |
+| **XML**      | eXtensible Markup Language         | Another format for data exchange, often used in enterprise systems                        |
+| **MVC**      | Model-View-Controller              | A software architectural pattern used in web and desktop apps                             |
+| **TDD**      | Test-Driven Development            | A development process where tests are written before code implementation                  |
+| **OOP**      | Object-Oriented Programming        | A programming paradigm based on objects and classes                                       |
+| **UAT**      | User Acceptance Testing            | Final phase of testing to validate software with end-users                                |
+
+***
+
+## **Cloud & DevOps**
+
+| Abbreviation | Full Form                        | Meaning / Usage                                                                             |
+| ------------ | -------------------------------- | ------------------------------------------------------------------------------------------- |
+| **DNS**      | Domain Name System               | System that translates domain names to IP addresses                                         |
+| **VM**       | Virtual Machine                  | Software emulation of a physical computer                                                   |
+| **VPC**      | Virtual Private Cloud            | Private cloud environment within a public cloud                                             |
+| **K8s**      | Kubernetes                       | Open-source system for automating deployment, scaling, and management of containerized apps |
+| **IaC**      | Infrastructure as Code           | Managing infrastructure using code (e.g., Terraform, AWS CloudFormation)                    |
+| **YAML**     | YAML Ain’t Markup Language       | A human-readable configuration file format often used in CI/CD and Kubernetes               |
+| **CI**       | Continuous Integration           | Frequently integrating code into a shared repository with automated builds/tests            |
+| **CD**       | Continuous Deployment / Delivery | Automatically releasing changes to production or staging environments                       |
+
+## **Common Business Abbreviations**
 
 | Abbreviation | Full Form                 | Meaning / Usage                                 |
 | ------------ | ------------------------- | ----------------------------------------------- |
@@ -18,7 +62,7 @@ icon: building
 
 ***
 
-## 🧳 **Time & Availability**
+## **Time & Availability**
 
 | Abbreviation | Full Form           | Meaning / Usage                                    |
 | ------------ | ------------------- | -------------------------------------------------- |
@@ -29,7 +73,7 @@ icon: building
 
 ***
 
-## 📈 **Performance & Planning**
+## **Performance & Planning**
 
 | Abbreviation | Full Form                  | Meaning / Usage                               |
 | ------------ | -------------------------- | --------------------------------------------- |
@@ -40,7 +84,7 @@ icon: building
 
 ***
 
-## 📝 **Meetings & Documents**
+## **Meetings & Documents**
 
 | Abbreviation | Full Form                     | Meaning / Usage                                    |
 | ------------ | ----------------------------- | -------------------------------------------------- |
@@ -52,7 +96,7 @@ icon: building
 
 ***
 
-## 💬 **Communication**
+## **Communication**
 
 | Abbreviation   | Full Form                            | Meaning / Usage                                               |
 | -------------- | ------------------------------------ | ------------------------------------------------------------- |
