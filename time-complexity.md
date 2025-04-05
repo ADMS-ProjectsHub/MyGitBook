@@ -1,4 +1,4 @@
-# Time Complexity?
+# ⏲️ Time Complexity?
 
 {% hint style="success" %}
 **Time complexity** is a way to describe **how the runtime of an algorithm increases** with the size of the input (usually denoted as `n`). It helps us estimate how efficient an algorithm is, especially for large inputs.
