@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Useful Websites](README.md)
-* [Practical Abbreviations](practical-abbreviations.md)
+* [Sliding Window](README.md)
+* [Time Complexity?](time-complexity.md)

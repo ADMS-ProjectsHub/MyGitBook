@@ -1,13 +1,6 @@
 ---
-icon: browser
+icon: square-check
 ---
 
-# Useful Websites
+# Sliding Window
 
-## Icon
-
-{% embed url="https://www.flaticon.com/" %}
-
-## Study English
-
-{% embed url="https://test-english.com/" %}
