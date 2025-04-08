@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Sliding Window](README.md)
-* [⏲️ Time Complexity?](time-complexity.md)
+* [Installing VS Code](README.md)
+* [Installing Python](installing-python.md)
