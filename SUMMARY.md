@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Installing VS Code](README.md)
-* [Installing Python](installing-python.md)
+* [Useful Websites](README.md)
+* [Practical Abbreviations](practical-abbreviations.md)
