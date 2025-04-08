@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Useful Websites](README.md)
+* [Practical Abbreviations](practical-abbreviations.md)
