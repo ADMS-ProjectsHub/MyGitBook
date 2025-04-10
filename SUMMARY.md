@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Useful Websites](README.md)
-* [Practical Abbreviations](practical-abbreviations.md)
+* [Mutex](README.md)
+  * [Example](mutex/example.md)
+* [Semaphore](semaphore/README.md)
+  * [Example](semaphore/example.md)
+* [Lambda Expressions](lambda-expressions.md)
