@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Auto-shutdown Command](README.md)
