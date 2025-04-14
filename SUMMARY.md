@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Sliding Window](README.md)
-* [⏲️ Time Complexity?](time-complexity.md)
+* [Phrasal Verb](README.md)
